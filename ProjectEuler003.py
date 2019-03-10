@@ -8,7 +8,7 @@ Created on Sun Mar  3 22:05:13 2019
 import math
 
 
-n = 431465580
+n = 600851475143
 ans = 0
 for i in range(2,int(math.sqrt(n))):
     while n%i==0:
