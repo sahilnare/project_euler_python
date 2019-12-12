@@ -6,8 +6,6 @@ Created on Mon Mar  4 02:19:53 2019
 """
 
 
-
-
 def find_gcd(a,b):
     gcd = 1
     for i in range(2,min(a,b)):
