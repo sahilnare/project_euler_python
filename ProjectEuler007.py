@@ -13,6 +13,8 @@ def find_prime(x):
             break
     return c
 
+
+
 l = 0
 j = 2
 while True:
@@ -25,3 +27,5 @@ while True:
     j += 1
         
 
+
+        
