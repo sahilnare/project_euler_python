@@ -5,6 +5,7 @@ Created on Mon Mar  4 01:52:44 2019
 @author: Sahil
 """
 
+
 def palin(num):
     a = 0
     p = 0
@@ -41,3 +42,4 @@ for i in range(100,1000):
 
 print(maxpal)
         
+    
