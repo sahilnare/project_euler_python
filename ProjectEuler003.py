@@ -5,8 +5,8 @@ Created on Sun Mar  3 22:05:13 2019
 @author: Sahil
 """
 
-import math
 
+import math
 
 n = 600851475143
 ans = 0
